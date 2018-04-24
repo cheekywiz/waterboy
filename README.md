@@ -1,1 +1,1 @@
-# waterboy
+# The Official Bot of WaterBoy
