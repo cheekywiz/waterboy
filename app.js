@@ -15,4 +15,4 @@ client.on("message", (message) => {
   }
 });
 
-client.login("SuperSecretBotTokenHere");
+client.login("process.env.BOT_TOKEN");
